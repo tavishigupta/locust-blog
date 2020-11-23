@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,//,HTTPError('502 Server Error: Bad Gateway for url: https://tg-voting-app.azurewebsites.net//'),1788

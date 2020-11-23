@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,//,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",13
