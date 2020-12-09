@@ -19,7 +19,7 @@ Click magick button (you can open it in new tab):
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FORBA%2Fazure-locust%2Fmaster%2Fazuredeploy.json)
 
 Click on **Edit template** and replace the current template with [azuredeploy.json](azuredeploy.json) content.
-![Edit Template](images/edit-template.png)
+![Edit Template](images/edit-template-img.png)
 
 Then fill form with given values.
 
